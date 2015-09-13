@@ -1,3 +1,3 @@
 #Data Structures
 
-Some data structures with mostly the methods create, push, pop and print. 
+Some data structu the methods create, push, pop and print. 
